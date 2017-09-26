@@ -1,0 +1,50 @@
+body{
+  background-image: url(img_flwr.gif);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: black;
+}
+
+a
+{
+  background-color: blue;
+  color: red;
+
+}
+
+a:hover
+{
+  background-color: red;
+  color: blue;
+}
+
+p
+{
+  background-color: black;
+  color: white;
+  font-family: arial;
+  font-size: 18;
+}
+
+h2
+{
+  color: white;
+}
+
+h1
+{
+  color: white;
+}
+body
+{
+background-image: url(img_flwr.gif);
+background-size: 100%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+p.halloween
+{
+    color: orange;
+    background-color: black;
+}
